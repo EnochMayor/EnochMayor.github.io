@@ -21,6 +21,6 @@ I work at the intersection of field investigations and numerical modelling to su
 MODFLOW • HydroGeoSphere • Leapfrog Works • FEFLOW • MT3DMS • ArcGIS/QGIS • ParaView • PyVista • Python
 
 ## Contact
-- LinkedIn: <add https://www.linkedin.com/in/enoch-ibitogbe/>
-- Email: <add enochibitogbe@gmail.com>
+- LinkedIn: <https://www.linkedin.com/in/enoch-ibitogbe/>
+- Email: <enochibitogbe@gmail.com>
 
