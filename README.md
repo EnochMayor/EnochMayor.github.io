@@ -33,16 +33,33 @@ Feel free to contact me:
 
 ---
 
+
 ## <div align="center"> Tech Tools </div> ##
 <div align="center">
-  <img align="center" alt="Python" height="30" width="85" src="https://img.shields.io/badge/-Python-000000?style=flat&logo=python" />
-  <img align="center" alt="SQL" height="30" width="70" src="https://img.shields.io/badge/-SQL-000000?style=flat&logo=mysql"/>
-  <img align="center" alt="ArcGIS" height="30" width="85" src="https://img.shields.io/badge/-ArcGIS-000000?style=flat&logo=arcgis"/>
-  <img align="center" alt="QGIS" height="30" width="75" src="https://img.shields.io/badge/-QGIS-000000?style=flat&logo=qgis"/>
-  <img align="center" alt="MODFLOW" height="30" width="95" src="https://img.shields.io/badge/-MODFLOW-000000?style=flat"/>
-  <img align="center" alt="HydroGeoSphere" height="30" width="140" src="https://img.shields.io/badge/-HydroGeoSphere-000000?style=flat"/>
-  <img align="center" alt="Leapfrog Works" height="30" width="140" src="https://img.shields.io/badge/-Leapfrog%20Works-000000?style=flat"/>
-  <img align="center" alt="Excel" height="30" width="80" src="https://img.shields.io/badge/-Excel-000000?style=flat&logo=microsoftexcel"/>
+
+  <!-- Core -->
+  <img height="30" src="https://img.shields.io/badge/Python-000000?style=flat&logo=python" />
+  <img height="30" src="https://img.shields.io/badge/SQL-000000?style=flat&logo=mysql" />
+  <img height="30" src="https://img.shields.io/badge/Pandas-000000?style=flat&logo=pandas" />
+  <img height="30" src="https://img.shields.io/badge/NumPy-000000?style=flat&logo=numpy" />
+  <img height="30" src="https://img.shields.io/badge/Matplotlib-000000?style=flat&logo=plotly" />
+
+  <br/>
+
+  <!-- ML -->
+  <img height="30" src="https://img.shields.io/badge/scikit--learn-000000?style=flat&logo=scikitlearn" />
+  <img height="30" src="https://img.shields.io/badge/TensorFlow-000000?style=flat&logo=tensorflow" />
+  <img height="30" src="https://img.shields.io/badge/PyTorch-000000?style=flat&logo=pytorch" />
+
+  <br/>
+
+  <!-- Hydro / Geo -->
+  <img height="30" src="https://img.shields.io/badge/MODFLOW-000000?style=flat" />
+  <img height="30" src="https://img.shields.io/badge/HydroGeoSphere-000000?style=flat" />
+  <img height="30" src="https://img.shields.io/badge/Leapfrog%20Works-000000?style=flat" />
+  <img height="30" src="https://img.shields.io/badge/ArcGIS-000000?style=flat&logo=arcgis" />
+  <img height="30" src="https://img.shields.io/badge/QGIS-000000?style=flat&logo=qgis" />
+
 </div>
 
 <!-- Optional fun add-on (only if you want it)
