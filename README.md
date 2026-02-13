@@ -18,17 +18,17 @@ Feel free to contact me:
 ## <div align="center"> Github Stats </div> ##
 
 <div align="center">
-  <a href="https://github.com/YOUR_USERNAME">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=onedark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&langs_count=7&theme=onedark"/>
+  <a href="https://github.com/EnochMayor">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=EnochMayor&show_icons=true&theme=onedark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EnochMayor&layout=compact&langs_count=7&theme=onedark"/>
 </div>
 
 <div align="center">
-  <p><img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YOUR_USERNAME&theme=2077" /></p>
+  <p><img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=EnochMayor&theme=2077" /></p>
 </div>
 
 <div align="center">
-  [![GitHub Streak](https://streak-stats.demolab.com/?user=YOUR_USERNAME&theme=onedark&stroke=0000)](https://git.io/streak-stats)
+  [![GitHub Streak](https://streak-stats.demolab.com/?user=EnochMayor&theme=onedark&stroke=0000)](https://git.io/streak-stats)
 </div>
 
 ---
