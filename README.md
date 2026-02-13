@@ -60,10 +60,10 @@ Feel free to contact me:
       <br />
       <div align="center">
 
-![GitHub top language](https://img.shields.io/github/languages/top/YOUR_USERNAME/monte-carlo-potable-water-risk)
-![GitHub commit activity](https://img.shields.io/github/commit-activity/m/YOUR_USERNAME/monte-carlo-potable-water-risk)
-![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/YOUR_USERNAME/monte-carlo-potable-water-risk)
-![GitHub last commit](https://img.shields.io/github/last-commit/YOUR_USERNAME/monte-carlo-potable-water-risk)
+![GitHub top language](https://img.shields.io/github/languages/top/EnochMayor/monte-carlo-potable-water-risk)
+![GitHub commit activity](https://img.shields.io/github/commit-activity/m/EnochMayor/monte-carlo-potable-water-risk)
+![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/EnochMayor/monte-carlo-potable-water-risk)
+![GitHub last commit](https://img.shields.io/github/last-commit/EnochMayor/monte-carlo-potable-water-risk)
 
 </div>
 <div align="center">
@@ -86,10 +86,10 @@ Probabilistic health-risk assessment comparing boreholes vs hand-dug wells using
       <br />
       <div align="center">
 
-![GitHub top language](https://img.shields.io/github/languages/top/YOUR_USERNAME/groundwater-supply-resilience-model)
-![GitHub commit activity](https://img.shields.io/github/commit-activity/m/YOUR_USERNAME/groundwater-supply-resilience-model)
-![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/YOUR_USERNAME/groundwater-supply-resilience-model)
-![GitHub last commit](https://img.shields.io/github/last-commit/YOUR_USERNAME/groundwater-supply-resilience-model)
+![GitHub top language](https://img.shields.io/github/languages/top/EnochMayor/groundwater-supply-resilience-model)
+![GitHub commit activity](https://img.shields.io/github/commit-activity/m/EnochMayor/groundwater-supply-resilience-model)
+![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/EnochMayor/groundwater-supply-resilience-model)
+![GitHub last commit](https://img.shields.io/github/last-commit/EnochMayor/groundwater-supply-resilience-model)
 
 </div>
 <div align="center">
