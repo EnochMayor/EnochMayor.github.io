@@ -92,7 +92,7 @@ Probabilistic health-risk assessment comparing boreholes vs hand-dug wells using
 </p>
 
 <p align="center">
-  <a href="https://github.com/YOUR_USERNAME/monte-carlo-potable-water-risk" target="_blank">
+  <a href="https://github.com/YOUR_USERNAME/monte-carlo-potable-water-risk" target="(https://github.com/EnochMayor/monte-carlo-potable-water-risk/folder/1-3.PNG)">
     <img src="https://img.shields.io/static/v1?label=|&message=CODE&color=05F718&style=plastic&logo=github&logo-color=white"/>
   </a>
 </p>
