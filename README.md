@@ -91,11 +91,12 @@ Feel free to contact me:
 </div>
 
 <div align="center">
-  <a href="https://github.com/EnochMayor/monte-carlo-potable-water-risk" target="_blank" rel="noreferrer">
+  <a href="https://github.com/EnochMayor/monte-carlo-potable-water-risk/blob/main/folder/1-3.PNG" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/EnochMayor/monte-carlo-potable-water-risk/main/folder/1-3.PNG"
          height="240" alt="Probabilistic health risk plot"/>
   </a>
 </div>
+
 
 
 <br />
