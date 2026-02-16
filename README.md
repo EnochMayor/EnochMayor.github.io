@@ -92,9 +92,11 @@ Feel free to contact me:
 
 <div align="center">
   <a href="https://github.com/EnochMayor/monte-carlo-potable-water-risk" target="_blank" rel="noreferrer">
-    <img align="center" src="https://raw.githubusercontent.com/EnochMayor/monte-carlo-potable-water-risk/main/figures/risk_distribution.png" height="240" alt="risk"/>
+    <img src="https://raw.githubusercontent.com/EnochMayor/monte-carlo-potable-water-risk/main/folder/1-3.PNG"
+         height="240" alt="Probabilistic health risk plot"/>
   </a>
 </div>
+
 
 <br />
 <p>
